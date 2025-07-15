@@ -75,23 +75,6 @@ Driven Data Analyst proficient in **Python**, **SQL**, and **Data Visualization*
 - 🎓 [Accenture – Data Analytics & Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_PTtnnTyQ64nT7Aqbt_1741419448261_completion_certificate.pdf)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=radical" alt="amruth011" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amruth011&theme=radical" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amruth011&theme=algolia" alt="trophies" />
-</p>
-
----
-
 ### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/amruthkumar">
