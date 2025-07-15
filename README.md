@@ -79,6 +79,11 @@ Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driv
 ---
 ### ☕ Support Me
 
+## ☕️ Support Me
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%92%95-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
+
+
 <a href="https://www.buymeacoffee.com/amruthkumar">
   <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
 </a>
