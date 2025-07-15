@@ -5,7 +5,9 @@
 
 🔍 **Summary**
 
-Driven Data Analyst proficient in **Python**, **SQL**, and **Data Visualization**, with hands-on experience in **Power BI**, **Tableau**, and **Machine Learning**. Skilled in transforming data into actionable insights using **Keras**, **OpenCV**, and **Seaborn**. Exploring Big Data and Cloud technologies to scale solutions across modern platforms.
+💼 **Driven Data Analyst & Aspiring Data Scientist**  
+Proficient in **Python**, **SQL**, and **data visualization**, with hands-on experience in **Power BI**, **Tableau**, and **machine learning**.  
+Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driven solutions.
 
 ---
 
