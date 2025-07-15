@@ -9,15 +9,6 @@ Driven Data Analyst proficient in **Python**, **SQL**, and **Data Visualization*
 
 ---
 
-### 🎓 Currently Learning & Exploring
-- Microsoft DP-200: Implementing an Azure Data Solution  
-- **Big Data tools**: Apache Hadoop, Apache Spark, PySpark  
-- **Cloud**: Microsoft Azure, Oracle Cloud Infrastructure  
-- **Advanced ML & AI**: TensorFlow, PyTorch, Keras, OpenCV  
-- **ETL & Data Pipelines**: Azure Data Factory, SSMS
-
----
-
 ### 📫 How to Reach Me
 - 📧 Email: [amruth.kumar.portfolio@gmail.com](mailto:amruth.kumar.portfolio@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/amruth-kumar-m](https://linkedin.com/in/amruth-kumar-m)
