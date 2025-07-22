@@ -15,7 +15,6 @@ Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driv
 - 📧 Email: [amruth.kumar.portfolio@gmail.com](mailto:amruth.kumar.portfolio@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/amruth-kumar-m](https://linkedin.com/in/amruth-kumar-m)
 - 💻 GitHub: [github.com/Amruth011](https://github.com/Amruth011)
-- 🧠 LeetCode: [leetcode.com/amruthkumar](https://leetcode.com/amruthkumar)
 
 ---
 
@@ -57,6 +56,7 @@ Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driv
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker)
 ![Google Data Studio](https://img.shields.io/badge/-Data%20Studio-4285F4?style=flat&logo=googledatastudio)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda)
