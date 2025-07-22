@@ -65,16 +65,16 @@ Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driv
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-### 🏅 Certifications
-
-- 🎓 [Google Advanced Data Analytics Certificate](https://coursera.org/verify/professional-cert/IJT3ZVA05V3U)  
-- 🎓 [Meta Data Analyst Certificate](https://coursera.org/verify/professional-cert/V0E462ZJQEXW)  
-- 🎓 [Microsoft Azure Data Fundamentals (DP-900)](https://coursera.org/verify/specialization/L1100H8KFBKX)  
-- 🎓 [Oracle AI Foundations Associate – Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=673DFD2F83BAF6145821A2075AC2A2357CDDD6BBDD17EC577FB5C01E2A721E85)  
-- 🎓 [Deloitte Australia – Data Analytics Job Simulation (Jun 2025)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_PTtnnTyQ64nT7Aqbt_1750180455098_completion_certificate.pdf)  
-- 🎓 [BCG – GenAI Job Simulation (Apr 2025)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_PTtnnTyQ64nT7Aqbt_1745254200936_completion_certificate.pdf)  
-- 🎓 [PwC Switzerland – Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_PTtnnTyQ64nT7Aqbt_1741518725526_completion_certificate.pdf)  
+- 🎓 [Google Advanced Data Analytics Certificate](https://coursera.org/verify/professional-cert/IJT3ZVA05V3U)
+- 🎓 [Meta Data Analyst Certificate](https://coursera.org/verify/professional-cert/V0E462ZJQEXW)
+- 🎓 [Microsoft Azure Data Fundamentals (DP-900)](https://coursera.org/verify/specialization/L1100H8KFBKX)
+- 🎓 [Oracle AI Foundations Associate – Oracle Cloud Infrastructure](https://catalog-education.oracle.com/pls/certview/sharebadge?id=673DFD2F83BAF6145821A2075AC2A2357CDDD6BBDD17EC577FB5C01E2A721E85)
+- 🎓 [Deloitte Australia – Data Analytics Job Simulation (Jun 2025)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_PTtnnTyQ64nT7Aqbt_1750180455098_completion_certificate.pdf)
+- 🎓 [BCG – GenAI Job Simulation (Apr 2025)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_PTtnnTyQ64nT7Aqbt_1745254200936_completion_certificate.pdf)
+- 🎓 [PwC Switzerland – Power BI Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_PTtnnTyQ64nT7Aqbt_1741518725526_completion_certificate.pdf)
 - 🎓 [Accenture – Data Analytics & Visualization Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_PTtnnTyQ64nT7Aqbt_1741419448261_completion_certificate.pdf)
+- 🎓 [DataCamp – Data Analyst Associate Certificate](https://www.datacamp.com/certificate/AEDS0014096833007)
+
 
 ---
 ### ☕ Support Me
