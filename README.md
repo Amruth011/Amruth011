@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amruth Kumar M</h1>
-<h3 align="center">A passionate Data Analyst & Data Science enthusiast from India</h3>
+<h3 align="center">A passionate AI & Data Science enthusiast from India</h3>
 
 ---
 
 🔍 **Summary**
 
-💼 **Driven Data Analyst & Aspiring Data Scientist**  
+💼 **Artificial Intelligence and Data Science Student**  
 Proficient in **Python**, **SQL**, and **data visualization**, with hands-on experience in **Power BI**, **Tableau**, and **machine learning**.  
 Exploring **Big Data** and **Cloud platforms** to develop scalable, insight-driven solutions.
 
