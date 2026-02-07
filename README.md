@@ -1,33 +1,35 @@
 # Hi 👋, I'm Amruth Kumar M
-**Data Analyst | Data Scientist | AI & ML Engineer**
+**Data Scientist | AI & ML Engineer | Business Intelligence Specialist**
 
 ---
 
-### 🚀 Professional Profile
+### 🚀 Professional Impact
 - 🎓 **Education:** Final Year B.Tech in AI & Data Science at Reva University.
-- 📊 **Focus:** Transforming complex datasets into actionable business intelligence and predictive models.
-- 🎯 **Current Goal:** Mastering scalable data pipelines and preparing for GATE 2026 (Data Science & AI).
+- 💼 **Job Simulations:** Successfully completed high-level simulations with **BCG X (GenAI)**, **PwC Switzerland (Power BI)**, **Deloitte Australia (Data Analytics)**, **Tata iQ**, and **Accenture**.
+- 🎯 **Current Focus:** Engineering scalable data pipelines and preparing for GATE 2026 (Data Science & AI).
 
-### 🛠️ Tech Stack
-- **Data Analysis/Science:** Python (Pandas, NumPy), SQL, Scikit-learn, PyTorch, TensorFlow.
-- **Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn.
-- **Tools:** Git, Docker, Notion AI, Jupyter Notebooks.
+### 🛠️ Technical Ecosystem
+- **Data Science:** Python (Pandas, NumPy, Scikit-learn), ML Methodology (IBM Certified).
+- **AI & Automation:** Oracle AI Foundations, Generative AI (BCG X), NLP, Neural Networks.
+- **Visualization:** Power BI, Tableau, Streamlit (Creating interactive data apps).
+- **Databases:** SQL and Relational Databases (IBM Certified).
 
 ### 🏆 Featured Projects
-- **Blinkit Sales Analytics:** End-to-end analysis using SQL and Python with an interactive Power BI dashboard to optimize outlet performance.
-- **Customer Churn Prediction:** A machine learning pipeline developed to identify high-risk customers using advanced classification algorithms.
-- **Road Accident Analysis:** Comprehensive data visualization project highlighting safety trends and high-risk variables.
+- **End-to-End Churn Prediction App:** Developed an ML-powered system with an interactive **Streamlit interface** for real-time retention strategies.
+- **Social Media Sentiment Analysis:** Built an **NLP-powered system** for social media posts using advanced machine learning and neural networks.
+- **Blinkit Sales & Performance Analytics:** Engineered a comprehensive dashboard analyzing customer behavior and outlet metrics through interactive visualizations.
 
-### 📜 Certifications
-- **Google Data Analytics** Professional Certificate
-- **IBM Data Science** Professional Certificate
-- **Python for Data Science** (NPTEL/Coursera)
+### 📜 Top Professional Certifications
+- **Oracle** AI Foundations Associate
+- **Google** Advanced Data Analytics
+- **Meta** Data Analyst Professional
+- **DataCamp** Data Analyst Associate
 
-### 📊 Statistics
+### 📊 Performance Metrics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&theme=dark)
 
 ---
 
 ### 📬 Connect with me:
-[Portfolio](https://amruthportfolio.me) | [LinkedIn](https://linkedin.com/in/amruth-kumar-m) | [Email](mailto:amruth.kumar.portfolio@gmail.com)
+[**Portfolio**](https://amruthportfolio.me) | [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) | [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
