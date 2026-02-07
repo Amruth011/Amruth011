@@ -24,11 +24,6 @@
 - **Google** Advanced Data Analytics
 - **Meta** Data Analyst Professional
 - **DataCamp** Data Analyst Associate
-
-### 📊 Performance Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&theme=dark)
-
 ---
 
 ### 📬 Connect with me:
