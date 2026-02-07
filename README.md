@@ -27,4 +27,4 @@
 ---
 
 ### 📬 Connect with me:
-[**Portfolio**](https://amruthportfolio.me) | [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) | [**Email**] amruth.kumar.portfolio@gmail.com(mailto:amruth.kumar.portfolio@gmail.com)
+[**Portfolio**](https://amruthportfolio.me) | [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) | [**Email**](mailto:amruth.kumar.portfolio@gmail.com) amruth.kumar.portfolio@gmail.com
