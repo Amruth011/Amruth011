@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student%20%7C%20Reva%20University&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,19,20&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=52&fontColor=fff&fontAlignY=35&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student%20%7C%20Reva%20University&descAlignY=58&descSize=16&descColor=d0d0d0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;Salesforce+Agentforce+Certified+%E2%9C%85;Google+%7C+Meta+%7C+IBM+%7C+Microsoft+Certified+%F0%9F%8E%93;Available+for+Internships+%26+Full-Time+Roles+%F0%9F%93%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;Salesforce+Agentforce+Certified+%E2%9C%85;Google+%7C+Meta+%7C+IBM+%7C+Microsoft+Certified+%F0%9F%8E%93;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%93%A9)](https://git.io/typing-svg)
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruth.kumar.portfolio@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Amruth011&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Amruth011)
 
-**📬 Open to Data Science & ML Internships / Entry-Level Roles — [Let's connect](https://linkedin.com/in/amruth-kumar-m)**
+**📬 Actively seeking Data Science & ML Internships / Entry-Level Roles — [Let's connect on LinkedIn](https://linkedin.com/in/amruth-kumar-m)**
 
 </div>
 
@@ -26,9 +26,8 @@ class AmruthKumarM:
     focus       = {"Data Science": "70%", "Machine Learning": "20%", "AI": "10%"}
     certified   = ["Salesforce Agentforce", "Google", "Meta", "IBM",
                    "Microsoft Azure", "Oracle", "DataCamp"]
-    simulations = ["BCG X · GenAI", "PwC · Power BI",
-                   "Deloitte · Data Analytics", "Tata iQ · GenAI Analytics",
-                   "Accenture · Data & Visualization"]
+    simulations = ["BCG X · GenAI", "PwC · Power BI", "Deloitte · Data Analytics",
+                   "Tata iQ · GenAI Analytics", "Accenture · Data & Visualization"]
     seeking     = "Internships & Entry-Level roles in Data Science / Analytics"
     mantra      = "Data is only valuable when it drives decisions ⚡"
 ```
@@ -81,7 +80,7 @@ class AmruthKumarM:
 
 | 🔮 Project | 📋 What It Does | 🧰 Stack | 🚀 |
 |:-----------|:----------------|:---------|:--:|
-| [**Customer Churn Prediction & Retention ROI**](https://github.com/Amruth011/customer-churn-prediction-retention-roi) | End-to-end ML system — predicts customer churn, identifies key risk drivers, recommends tailored retention strategies, and quantifies business ROI impact in real time | `Python` `Scikit-learn` `Streamlit` `Pandas` | [![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-churn-prediction-retention-roi-9gkae6bppwug3sjpykbcgd.streamlit.app/) |
+| [**Customer Churn Prediction & Retention ROI**](https://github.com/Amruth011/customer-churn-prediction-retention-roi) | End-to-end ML system — predicts customer churn, identifies key risk drivers, recommends tailored retention strategies & quantifies business ROI impact in real time | `Python` `Scikit-learn` `Streamlit` `Pandas` | [![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-churn-prediction-retention-roi-9gkae6bppwug3sjpykbcgd.streamlit.app/) |
 | [**Social Media Sentiment Analysis**](https://github.com/Amruth011) | ML-powered engine classifying social media posts with neural network accuracy — extracts actionable insights from user-generated content at scale | `Python` `Neural Networks` `Matplotlib` | 🔗 Repo |
 | [**Blinkit Sales & Performance Analytics**](https://github.com/Amruth011) | Comprehensive BI dashboard analyzing outlet performance, customer behavior & sales KPIs across all segments with interactive drill-throughs | `Power BI` `DAX` `Data Modeling` | 🔗 Repo |
 
@@ -127,8 +126,8 @@ class AmruthKumarM:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+![Amruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 </div>
 
@@ -158,7 +157,7 @@ class AmruthKumarM:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,19,20&height=100&section=footer)
 
 *"Data speaks — I make sure it's heard."*
 
