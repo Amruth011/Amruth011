@@ -1,6 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,19,20&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=52&fontColor=fff&fontAlignY=35&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student%20%7C%20Reva%20University&descAlignY=58&descSize=16&descColor=d0d0d0)
+<!-- HEADER using shields.io label badge - 100% reliable -->
+![](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-0d1117?style=for-the-badge)
+
+# 👋 Hi, I'm Amruth Kumar M
+
+### 🎓 Final Year B.Tech — AI & Data Science | Reva University, Bengaluru
+
+![](https://img.shields.io/badge/Data%20Science-70%25-58a6ff?style=flat-square)
+![](https://img.shields.io/badge/Machine%20Learning-20%25-58a6ff?style=flat-square)
+![](https://img.shields.io/badge/AI-10%25-58a6ff?style=flat-square)
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;Salesforce+Agentforce+Certified+%E2%9C%85;Google+%7C+Meta+%7C+IBM+%7C+Microsoft+Certified+%F0%9F%8E%93;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%93%A9)](https://git.io/typing-svg)
 
@@ -81,8 +92,8 @@ class AmruthKumarM:
 | 🔮 Project | 📋 What It Does | 🧰 Stack | 🚀 |
 |:-----------|:----------------|:---------|:--:|
 | [**Customer Churn Prediction & Retention ROI**](https://github.com/Amruth011/customer-churn-prediction-retention-roi) | End-to-end ML system — predicts customer churn, identifies key risk drivers, recommends tailored retention strategies & quantifies business ROI impact in real time | `Python` `Scikit-learn` `Streamlit` `Pandas` | [![Live App](https://img.shields.io/badge/Live-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer-churn-prediction-retention-roi-9gkae6bppwug3sjpykbcgd.streamlit.app/) |
-| [**Social Media Sentiment Analysis**](https://github.com/Amruth011) | ML-powered engine classifying social media posts with neural network accuracy — extracts actionable insights from user-generated content at scale | `Python` `Neural Networks` `Matplotlib` | 🔗 Repo |
-| [**Blinkit Sales & Performance Analytics**](https://github.com/Amruth011) | Comprehensive BI dashboard analyzing outlet performance, customer behavior & sales KPIs across all segments with interactive drill-throughs | `Power BI` `DAX` `Data Modeling` | 🔗 Repo |
+| [**Social Media Sentiment Analysis**](https://github.com/Amruth011) | ML-powered engine classifying social media posts — extracts actionable insights from user-generated content at scale | `Python` `Neural Networks` `Matplotlib` | 🔗 Repo |
+| [**Blinkit Sales & Performance Analytics**](https://github.com/Amruth011) | Comprehensive BI dashboard analyzing outlet performance, customer behavior & sales KPIs with interactive drill-throughs | `Power BI` `DAX` `Data Modeling` | 🔗 Repo |
 
 </div>
 
@@ -139,26 +150,16 @@ class AmruthKumarM:
 
 <div align="center">
 
-[![Amruth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amruth011&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amruth011&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amruth011&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,19,20&height=100&section=footer)
 
 *"Data speaks — I make sure it's heard."*
+
+`Data Science` • `Machine Learning` • `Business Intelligence` • `Salesforce Agentforce` • `Open to Opportunities`
 
 </div>
