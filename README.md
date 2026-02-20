@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20BI%20Specialist&descAlignY=58&descSize=17&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;Building+ML+systems+that+actually+work+%F0%9F%A4%96;Salesforce+Agentforce+Certified+%E2%9C%85;Open+to+collaborate+on+Data+%26+AI+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;Salesforce+Agentforce+Specialist+%E2%9C%85;Google+%7C+Meta+%7C+IBM+%7C+Microsoft+Certified+%F0%9F%8E%93;Open+to+collaborate+on+Data+%26+ML+projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-amruthportfolio.me-0d1117?style=for-the-badge&labelColor=58a6ff&color=1a1a2e)](https://amruthportfolio.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amruthportfolio.me-58a6ff?style=for-the-badge&logo=firefox&logoColor=white)](https://amruthportfolio.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amruth-kumar-m)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruth.kumar.portfolio@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruth.kumar.portfolio@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Amruth011&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Amruth011)
 
 </div>
@@ -21,10 +21,12 @@
 class AmruthKumarM:
     role        = ["Data Scientist", "ML Engineer", "BI Specialist"]
     education   = "B.Tech AI & Data Science — Reva University, Bengaluru"
-    certified   = ["Salesforce Agentforce", "Google", "Meta", "IBM", "Coursera",
-                   "Oracle", "DataCamp", "BCG X", "PwC", "Deloitte"]
-    domains     = {"Data Science": "70%", "Machine Learning": "20%", "AI": "10%"}
-    tools       = ["Python", "Power BI", "Tableau", "Streamlit", "SQL"]
+    focus       = {"Data Science": "70%", "Machine Learning": "20%", "AI": "10%"}
+    certified   = ["Salesforce Agentforce ⭐", "Google", "Meta", "IBM",
+                   "Microsoft Azure", "Oracle", "DataCamp"]
+    simulations = ["BCG X · GenAI", "PwC · Power BI",
+                   "Deloitte · Data Analytics", "Tata iQ · GenAI Analytics",
+                   "Accenture · Data & Visualization"]
     currently   = "Building scalable data pipelines & deploying real-world ML apps"
     mantra      = "Data is only valuable when it drives decisions ⚡"
 ```
@@ -35,11 +37,11 @@ class AmruthKumarM:
 
 <div align="center">
 
-**Languages**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Data Science & Analysis**
 
@@ -47,11 +49,12 @@ class AmruthKumarM:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Machine Learning & AI**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce_Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **BI & Visualization**
 
@@ -59,12 +62,12 @@ class AmruthKumarM:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Databases & Platforms**
+**Cloud & Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -76,13 +79,13 @@ class AmruthKumarM:
 
 | 🔮 Project | 📋 What It Does | 🧰 Stack |
 |:-----------|:----------------|:---------|
-| [**Customer Churn Prediction**](https://github.com/Amruth011/customer-churn-prediction-retention-roi) | End-to-end ML system — predicts churn, identifies key drivers, recommends retention strategies & measures ROI impact | `Python` `Scikit-learn` `Streamlit` `Pandas` |
-| [**Social Media Sentiment Analysis**](https://github.com/Amruth011) | ML-powered sentiment engine classifying social media posts with neural network accuracy | `Python` `Neural Networks` `Matplotlib` |
-| [**Blinkit Sales & Performance Analytics**](https://github.com/Amruth011) | Comprehensive BI dashboard analyzing outlet performance, sales trends & customer behavior | `Power BI` `DAX` `Data Modeling` |
+| [**Customer Churn Prediction**](https://github.com/Amruth011/customer-churn-prediction-retention-roi) | End-to-end ML system — predicts churn, identifies key drivers, recommends retention strategies & quantifies ROI impact | `Python` `Scikit-learn` `Streamlit` `Pandas` |
+| [**Social Media Sentiment Analysis**](https://github.com/Amruth011) | ML-powered engine classifying social media posts with neural network accuracy — real-time insights at scale | `Python` `Neural Networks` `Matplotlib` |
+| [**Blinkit Sales & Performance Analytics**](https://github.com/Amruth011) | Comprehensive BI dashboard analyzing outlet performance, customer behavior & sales KPIs across all segments | `Power BI` `DAX` `Data Modeling` |
 
 </div>
 
-> ⭐ **If you find a project useful, a star goes a long way — thank you!**
+> ⭐ **Star a project if you find it useful — it genuinely helps!**
 
 ---
 
@@ -90,27 +93,29 @@ class AmruthKumarM:
 
 <div align="center">
 
-### 🥇 Professional Certifications
+### 🥇 Professional Certifications *(sorted by industry value)*
 
-| Badge | Certification | Issuer |
-|:-----:|:--------------|:-------|
-| ☁️ | **Agentforce Specialist** ⭐ *Industry-leading AI agent certification* | Salesforce |
-| 🔵 | **Advanced Data Analytics Professional** | Google / Coursera |
-| 🔵 | **Data Analyst Professional Certificate** | Meta / Coursera |
-| 🟢 | **Machine Learning Methodology** | IBM / Coursera |
-| 🟢 | **SQL & Relational Databases** | IBM / Coursera |
-| 🔴 | **AI Foundations Associate** | Oracle |
-| 🟠 | **Data Analyst Associate** | DataCamp |
+| | Certification | Platform | Year |
+|:--|:--------------|:---------|:-----|
+| ☁️⭐ | **Salesforce Certified: Agentforce Specialist** — *Autonomous AI agent design, Atlas Reasoning Engine, Einstein Trust Layer* | Salesforce | 2025 |
+| 🔵 | **IBM Machine Learning** — *Supervised, Unsupervised, Deep Learning & ML Capstone* | Coursera × IBM | 2025 |
+| 🔵 | **Google Advanced Data Analytics** — *Statistics, Regression, ML, Python, Capstone* | Coursera × Google | 2025 |
+| 🔵 | **Meta Data Analyst Professional Certificate** — *SQL, Python, Statistics, Data Management* | Coursera × Meta | 2025 |
+| 🔷 | **Microsoft Azure Data Fundamentals DP-900** — *Azure SQL, Cosmos DB, Data Warehouse, Analytics* | Coursera × Microsoft | 2025 |
+| 🟠 | **AI Engineer for Data Scientists Associate** | DataCamp | 2025 |
+| 🔴 | **Oracle Cloud Infrastructure AI Foundations Associate** | Oracle University | 2025 |
+| 🟢 | **SQL & Relational Databases 101** | IBM Cognitive Class | 2025 |
+| ☁️ | **Introduction to Generative AI Studio** | Google Cloud × SimpliLearn | 2025 |
 
-### 💼 Industry Job Simulations
+### 💼 Industry Job Simulations *(Forage — Data Science focus)*
 
-| Company | Domain |
-|:--------|:-------|
-| **BCG X** | Generative AI — AI-powered strategy & business case development |
-| **PwC Switzerland** | Power BI — Enterprise dashboards & stakeholder reporting |
-| **Deloitte Australia** | Data Analytics — forensic analysis & business insights |
-| **Tata iQ** | Data Analytics — client-side data storytelling & problem solving |
-| **Accenture** | Data Analytics & Visualization |
+| Company | Simulation | Key Work |
+|:--------|:-----------|:---------|
+| 🔵 **BCG X** | GenAI Consulting | Built an AI-powered financial chatbot; used Python & pandas to interpret 10-K/10-Q data |
+| 🔷 **PwC Switzerland** | Power BI & BI Strategy | Designed KPI dashboards; analyzed HR data for gender diversity insights |
+| 🟢 **Deloitte Australia** | Data Analytics & Forensic Tech | Created Tableau dashboards; classified data with Excel for business conclusions |
+| 🔴 **Tata iQ** | GenAI-Powered Data Analytics | EDA with GenAI tools; designed agentic AI strategy for credit delinquency in FinServ |
+| 🟣 **Accenture** | Data Analytics & Visualization | Cleaned & modeled 7 datasets; delivered client insights via PowerPoint & storytelling |
 
 </div>
 
