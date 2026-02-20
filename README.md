@@ -1,15 +1,6 @@
 <div align="center">
 
-<!-- HEADER using shields.io label badge - 100% reliable -->
-![](https://img.shields.io/badge/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-0d1117?style=for-the-badge)
-
-# 👋 Hi, I'm Amruth Kumar M
-
-### 🎓 Final Year B.Tech — AI & Data Science | Reva University, Bengaluru
-
-![](https://img.shields.io/badge/Data%20Science-70%25-58a6ff?style=flat-square)
-![](https://img.shields.io/badge/Machine%20Learning-20%25-58a6ff?style=flat-square)
-![](https://img.shields.io/badge/AI-10%25-58a6ff?style=flat-square)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=52&fontColor=fff&fontAlignY=35&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student%20%7C%20Reva%20University&descAlignY=58&descSize=16&descColor=d0d0d0)
 
 ---
 
@@ -156,10 +147,20 @@ class AmruthKumarM:
 
 ---
 
+## 🏅 GitHub Trophies
+
 <div align="center">
 
-*"Data speaks — I make sure it's heard."*
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amruth011&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-`Data Science` • `Machine Learning` • `Business Intelligence` • `Salesforce Agentforce` • `Open to Opportunities`
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+*"Data speaks — I make sure it's heard."*
 
 </div>
