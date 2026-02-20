@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amruth%20Kumar%20M&fontSize=52&fontColor=fff&fontAlignY=35&desc=Final%20Year%20AI%20%26%20Data%20Science%20Student%20%7C%20Reva%20University&descAlignY=58&descSize=16&descColor=d0d0d0)
-
----
+![header](https://raw.githubusercontent.com/Amruth011/Amruth011/main/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning+%7C+Business+Intelligence;Salesforce+Agentforce+Certified+%E2%9C%85;Google+%7C+Meta+%7C+IBM+%7C+Microsoft+Certified+%F0%9F%8E%93;Open+to+Internships+%26+Entry-Level+Roles+%F0%9F%93%A9)](https://git.io/typing-svg)
 
@@ -147,19 +145,9 @@ class AmruthKumarM:
 
 ---
 
-## 🏅 GitHub Trophies
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amruth011&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://raw.githubusercontent.com/Amruth011/Amruth011/main/footer.svg)
 
 *"Data speaks — I make sure it's heard."*
 
