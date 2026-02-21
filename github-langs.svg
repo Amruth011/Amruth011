@@ -1,0 +1,15 @@
+<svg width="300" height="195" viewBox="0 0 300 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px "Segoe UI", Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .lang { font: 400 12px "Segoe UI", Ubuntu, Sans-Serif; fill: #8b949e; }
+    .pct  { font: 600 12px "Segoe UI", Ubuntu, Sans-Serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="299" height="194" fill="#0d1117" stroke="#21262d"/>
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  <text x="25" y="70" class="lang">Jupyter Notebook</text><text x="230" y="70" class="pct">60%</text>
+  <rect x="25" y="78" width="180" height="8" rx="4" fill="#f37626" opacity="0.8"/>
+  <text x="25" y="110" class="lang">Python</text><text x="230" y="110" class="pct">35%</text>
+  <rect x="25" y="118" width="105" height="8" rx="4" fill="#3776ab" opacity="0.8"/>
+  <text x="25" y="150" class="lang">Other</text><text x="230" y="150" class="pct">5%</text>
+  <rect x="25" y="158" width="15" height="8" rx="4" fill="#8b949e" opacity="0.8"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px "Segoe UI", Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .stat { font: 600 14px "Segoe UI", Ubuntu, Sans-Serif; fill: #8b949e; }
+    .bold { font: 800 14px "Segoe UI", Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .icon { fill: #58a6ff; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#0d1117" stroke="#21262d"/>
+  <text x="25" y="35" class="header">Amruth Kumar M&#39;s GitHub Stats</text>
+  <!-- Stars -->
+  <text x="25" y="75" class="stat">⭐ Total Stars Earned:</text>
+  <text x="330" y="75" class="bold">—</text>
+  <!-- Commits -->
+  <text x="25" y="105" class="stat">🔨 Total Commits (2024):</text>
+  <text x="330" y="105" class="bold">104+</text>
+  <!-- PRs -->
+  <text x="25" y="135" class="stat">🔀 Total PRs:</text>
+  <text x="330" y="135" class="bold">—</text>
+  <!-- Issues -->
+  <text x="25" y="165" class="stat">🐛 Total Issues:</text>
+  <text x="330" y="165" class="bold">—</text>
+</svg>
