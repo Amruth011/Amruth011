@@ -1,90 +1,29 @@
 name: Generate GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
-  workflow_dispatch:         # allows manual trigger
-  push:
-    branches: [main]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: writename: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Download GitHub Stats SVG
-        run: |
-          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"
+      - name: Fetch stats SVG
+        run: curl -L -o github-stats.svg 'https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e'
 
-      - name: Download Top Languages SVG
-        run: |
-          curl -o github-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"
+      - name: Fetch langs SVG
+        run: curl -L -o github-langs.svg 'https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e'
 
-      - name: Commit SVGs to repo
+      - name: Commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add github-stats.svg github-langs.svg
-          git diff --staged --quiet || git commit -m "chore: update github stats [skip ci]"
-          git push
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Stats Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: Amruth011
-          theme: github_dark
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          hide_border: true
-          bg_color: "0d1117"
-          title_color: "58a6ff"
-          icon_color: "58a6ff"
-          text_color: "8b949e"
-          output_path: github-stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: Amruth011
-          card_type: top-langs
-          theme: github_dark
-          layout: compact
-          langs_count: 8
-          hide_border: true
-          bg_color: "0d1117"
-          title_color: "58a6ff"
-          text_color: "8b949e"
-          output_path: github-langs.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated SVGs
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg github-langs.svg
-          git diff --staged --quiet || git commit -m "chore: update github stats [skip ci]"
+          git diff --staged --quiet || git commit -m 'update stats'
           git push
