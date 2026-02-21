@@ -126,8 +126,8 @@ class AmruthKumarM:
 
 <div align="center">
 
-![Amruth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+![Amruth's GitHub Stats](https://raw.githubusercontent.com/Amruth011/Amruth011/main/github-stats.svg)
+![Top Languages](https://raw.githubusercontent.com/Amruth011/Amruth011/main/github-langs.svg)
 
 </div>
 
