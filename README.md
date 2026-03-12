@@ -80,7 +80,7 @@ class AmruthKumarM:
 ### 🌱 Currently Learning
 - LLM fine-tuning & prompt engineering
 - Docker for AI app deployment
-- Surya OCR for higher-accuracy Indic text
+- Surya & Easy OCR for higher-accuracy Indic text
 - Advanced RAG patterns (re-ranking, HyDE)
 
 </td>
