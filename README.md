@@ -40,7 +40,7 @@ class AmruthKumarM:
     name        = "Amruth Kumar M"
     location    = "Bengaluru, Karnataka 🇮🇳"
     education   = "B.Tech AI & Data Science — Reva University (Final Year, 2026)"
-    currently   = "Virtual Data Science Intern @ iStudio Technologies"
+    currently   = "Data Science Intern @ iStudio Technologies"
 
     # ── What I build ──────────────────────────────────────────────────────────
     building    = [
