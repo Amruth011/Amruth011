@@ -14,8 +14,8 @@ Along the way:
 
 Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
 
+If you want to see the systems I build, or discuss a role, start with my **[ai-portfolio-projects →](https://amruthportfolio.me)**
+
 ---
 
-### 🚀 [View My Full Portfolio & Projects →](https://amruthportfolio.me)
-
-**[Connect on LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email Me](mailto:amruth.kumar.portfolio@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
