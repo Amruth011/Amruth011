@@ -6,7 +6,7 @@ I’m not going to just show you code; I build end-to-end systems with a focus o
 
 Along the way:
 
-* **Delivered GenAI & Data Analytics solutions** through job simulations with **BCG, Deloitte, PwC, and Tata iQ**
+* **Delivered GenAI & Data Analytics solutions** through job simulations with **BCG, Deloitte, PwC, Accenture, and Tata iQ**
 * **Built the first Indic RAG Agent** for a 346-page Kannada novel, featuring OCR, TTS, and smart routing
 * **Earned 10+ Professional Certifications** across Google, Meta, IBM, Microsoft, and Salesforce
 * **Achieved 98.7% accuracy** in real-time ML systems for Customer Churn & ROI tracking
