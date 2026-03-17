@@ -16,7 +16,7 @@ Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
 
 <br/>
 
-If you want to see the systems I build, or discuss a role, start with my **[`ai-portfolio-projects →`](https://amruthportfolio.me)**
+If you want to see the systems I build, or discuss a role, start with my **[`ai-portfolio-projects`](https://amruthportfolio.me)**
 
 ---
 
