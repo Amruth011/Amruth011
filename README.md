@@ -16,8 +16,8 @@ Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
 
 <br/>
 
-If you want to see the systems I build, or discuss a role, start with my **[`ai-portfolio-projects`](https://amruthportfolio.me)**
+I am actively looking for **AI Engineer, ML Engineer, or Data Scientist** roles in Bengaluru (or Remote/Hybrid). I am open to discussing high-impact opportunities with competitive compensation.
 
 ---
 
-**[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** |  **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
+**[Portfolio](https://amruthportfolio.me)** | **[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
