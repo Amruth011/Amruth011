@@ -20,4 +20,4 @@ I am actively looking for **AI Engineer, ML Engineer, or Data Scientist** roles 
 
 ---
 
-**[Portfolio](https://amruthportfolio.me)** | **[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
+**[Portfolio](https://amruthportfolio.me)** | **[LinkedIn](https://linkedin.com/in/amruth-kumar-m)**  **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
