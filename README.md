@@ -10,7 +10,7 @@ Along the way:
 * **Built the first Indic RAG Agent** for a 346-page Kannada novel, featuring OCR, TTS, and smart routing
 * **Earned 10+ Professional Certifications** across Google, Meta, IBM, Microsoft, and Salesforce
 * **Achieved 98.7% accuracy** in real-time ML systems for Customer Churn & ROI tracking
-* **Interned @ iStudio Technologies**, developing production-ready Data Science pipelines
+* **Interned @ iStudio**, developing production-ready Data Science pipelines
 
 Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
 
