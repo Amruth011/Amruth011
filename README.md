@@ -18,6 +18,6 @@ Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
 
 I am actively looking for **AI Engineering** opportunities in Bengaluru (or Remote/Hybrid). I am open to discussing high-impact roles where I can build and deploy production-level AI systems.
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+<hr style="height:1px;border:none;color:#333;background-color:#333;"/>
 
 **[Portfolio](https://amruthportfolio.me)** | **[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
