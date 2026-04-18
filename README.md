@@ -4,16 +4,16 @@ I'm **Amruth Kumar M**, an AI engineer focused on building intelligent systems t
 
 I’m not going to just show you code; I build end-to-end systems with a focus on **Indic AI (Kannada NLP)** and **scalable RAG architectures**.
 
-Along the way:
+### 🚀 Highlights & Impact
+* **Lumida JD (In Development):** Crafting one of my finest projects yet—an advanced AI-driven recruitment engine designed to streamline job description analysis and candidate matching.
+* **Built the first Indic RAG Agent** for a 346-page Kannada novel, featuring OCR, TTS, and smart routing.
+* **Delivered GenAI & Data solutions** through industry simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
+* **Interned @ iStudio**, developing production-ready Data Science pipelines.
+* **Achieved 98.7% accuracy** in real-time ML systems for Customer Churn & ROI tracking.
+* **Earned 10+ Professional Certifications** across Google, Meta, IBM, Microsoft, and Salesforce.
 
-* **Lumida JD (In Development):** Crafting one of my finest projects—an advanced AI engine for intelligent job analysis and matching.
-* **Delivered GenAI & Data solutions** through industry simulations with **Accenture, BCG, Deloitte, and Tata iQ**
-* **Built the first Indic RAG Agent** for a 346-page Kannada novel, featuring OCR, TTS, and smart routing
-* **Earned 10+ Professional Certifications** across Google, Meta, IBM, Microsoft, and Salesforce
-* **Achieved 98.7% accuracy** in real-time ML systems for Customer Churn & ROI tracking
-* **Interned @ iStudio**, developing production-ready Data Science pipelines
-
-Current focus: **Agentic AI & Multi-agent LLM Frameworks.**
+### 🔥 My Stats & Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amruth011&theme=radical)](https://git.io/streak-stats)
 
 <br/>
 
