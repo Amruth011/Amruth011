@@ -2,7 +2,7 @@
 
 I'm **Amruth Kumar M**, an AI engineer focused on building intelligent systems that solve real-world problems. Currently a final-year B.Tech student at **Reva University, Bengaluru**, I bridge the gap between complex research and functional AI products that actually ship.
 
-I’m not going to just show you code; I build end-to-end systems with a focus on **Indic AI (Kannada NLP)** and **scalable RAG architectures**.
+I’m not going to just show you code; I build end-to-end systems with a focus on **Indic AI (Kannada NLP)** & **scalable RAG architectures**.
 
 ### 🚀 Highlights & Impact
 * **Lumida JD (In Development):** Crafting one of my finest projects yet—an advanced AI-driven recruitment engine designed to streamline job description analysis and candidate matching.
