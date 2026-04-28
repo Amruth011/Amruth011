@@ -1,24 +1,43 @@
-# Hey there 👋
+# Hey there 👋 I'm Amruth Kumar M
 
-I'm **Amruth Kumar M**, an AI engineer focused on building intelligent systems that solve real-world problems. Currently a final-year B.Tech student at **Reva University, Bengaluru**, I bridge the gap between complex research and functional AI products that actually ship.
+I'm an **AI Engineer** dedicated to building intelligent systems that solve real-world problems. Currently a final-year B.Tech student at **Reva University, Bengaluru**, I bridge the gap between complex research and functional AI products that actually ship.
 
-I’m not going to just show you code; I build end-to-end systems with a focus on **Indic AI (Kannada NLP)** & **scalable RAG architectures**.
+I don’t just write code; I architect end-to-end systems with a focus on **Indic AI (Kannada NLP)** & **Scalable RAG Architectures**.
+
+---
 
 ### 🚀 Highlights & Impact
-* **Lumida JD (In Development):** Crafting one of my finest projects yet—an advanced AI-driven recruitment engine designed to streamline job description analysis and candidate matching.
-* **Built the first Indic RAG Agent** for a 346-page Kannada novel, featuring OCR, TTS, and smart routing.
-* **Delivered GenAI & Data solutions** through industry simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
-* **Interned @ iStudio**, developing production-ready Data Science pipelines.
-* **Achieved 98.7% accuracy** in real-time ML systems for Customer Churn & ROI tracking.
-* **Earned 10+ Professional Certifications** across Google, Meta, IBM, Microsoft, and Salesforce.
 
-### 🔥 My Stats & Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amruth011&theme=radical)](https://git.io/streak-stats)
+* **Lumina JD (In Development):** Crafting an advanced AI-driven recruitment engine designed to decode deep metadata in job descriptions and candidate profiles for precision matching.
+* **Indic RAG Agent:** Built the first-of-its-kind RAG pipeline for a 346-page Kannada novel, integrating OCR, TTS, and intelligent semantic routing.
+* **Industry Solutions:** Delivered GenAI & Data insights through simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
+* **Production Pipelines:** Interned @ **iStudio**, developing production-ready Data Science pipelines and real-time ML systems.
+* **High-Precision ML:** Achieved **98.7% accuracy** in real-time systems for Customer Churn & ROI tracking.
+* **Certified Expert:** 10+ Professional Certifications from **Google, Meta, IBM, Microsoft, and Salesforce**.
 
-<br/>
+---
 
-I am actively looking for **AI Engineering** opportunities in Bengaluru (or Remote/Hybrid). I am open to discussing high-impact roles where I can build and deploy production-level AI systems.
+### 🔥 Stats & Performance
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;"/>
+<p align="left">
+<img src="https://github-readme-streak-stats.vercel.app/?user=Amruth011&theme=radical" alt="Amruth's GitHub Streak" />
+</p>
 
-**[Portfolio](https://amruthportfolio.me)** | **[LinkedIn](https://linkedin.com/in/amruth-kumar-m)** | **[Email](mailto:amruth.kumar.portfolio@gmail.com)**
+### 🛠 Tech Stack
+* **Languages:** Python, SQL, Kannada (NLP Focus)
+* **AI/ML:** PyTorch, HuggingFace, LangChain, RAG, OpenAI API
+* **Data:** Pandas, Scikit-Learn, Production Pipelines (iStudio)
+* **Tools:** Docker, Git, Vercel, AWS
+
+---
+
+### 🌐 Connect With Me
+
+I am actively seeking **AI Engineering** opportunities in **Bengaluru (or Remote/Hybrid)** to build and deploy high-impact AI systems.
+
+[**Portfolio**](https://amruthportfolio.me) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Lumina_JD-In_Development-blueviolet?style=for-the-badge&logo=rocket" alt="Project Status" />
+</p>
