@@ -19,9 +19,9 @@ I don’t just write code; I architect end-to-end systems with a focus on **Indi
 
 ### 🔥 Stats & Performance
 
-<p align="left">
-<img src="https://github-readme-streak-stats.vercel.app/?user=Amruth011&theme=radical" alt="Amruth's GitHub Streak" />
-</p>
+[![Amruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Kannada (NLP Focus)
