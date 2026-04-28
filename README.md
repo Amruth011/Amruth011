@@ -19,10 +19,11 @@ I don’t just write code; I architect end-to-end systems with a focus on **Indi
 
 ### 🔥 Stats & Performance
 
-[![Amruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amruth011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth011&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
+  </a>
+</p>
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Kannada (NLP Focus)
 * **AI/ML:** PyTorch, HuggingFace, LangChain, RAG, OpenAI API
