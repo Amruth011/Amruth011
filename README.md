@@ -8,33 +8,31 @@ I don’t just write code; I architect end-to-end systems with a focus on **Indi
 
 ### 🚀 Highlights & Impact
 
-* **Lumina JD (In Development):** Crafting an advanced AI-driven recruitment engine designed to decode deep metadata in job descriptions and candidate profiles for precision matching.
-* **Indic RAG Agent:** Built the first-of-its-kind RAG pipeline for a 346-page Kannada novel, integrating OCR, TTS, and intelligent semantic routing.
-* **Industry Solutions:** Delivered GenAI & Data insights through simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
-* **Production Pipelines:** Interned @ **iStudio**, developing production-ready Data Science pipelines and real-time ML systems.
+* **Lumina JD (Flagship):** Architecting an advanced AI recruitment engine to decode deep metadata in JDs and candidate profiles for precision matching.
+* **Indic RAG Agent:** Built a first-of-its-kind RAG pipeline for a 346-page Kannada novel, featuring OCR, TTS, and semantic routing.
+* **Production Pipelines:** Interned @ **iStudio Technologies**, developing production-ready Data Science and ML pipelines.
 * **High-Precision ML:** Achieved **98.7% accuracy** in real-time systems for Customer Churn & ROI tracking.
-* **Certified Expert:** 10+ Professional Certifications from **Google, Meta, IBM, Microsoft, and Salesforce**.
+* **Industry Simulations:** Completed GenAI & Data simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
 
 ---
 
 ### 🔥 Stats & Performance
 
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
 </p>
+
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Kannada (NLP Focus)
-* **AI/ML:** PyTorch, HuggingFace, LangChain, RAG, OpenAI API
-* **Data:** Pandas, Scikit-Learn, Production Pipelines (iStudio)
+* **AI/ML:** Agentic AI, PyTorch, HuggingFace, LangChain, RAG
+* **Data:** PySpark, Scikit-Learn, Production Pipelines
 * **Tools:** Docker, Git, Vercel, AWS
 
 ---
 
 ### 🌐 Connect With Me
 
-I am actively seeking **AI Engineering** opportunities in **Bengaluru (or Remote/Hybrid)** to build and deploy high-impact AI systems.
+I am actively seeking **AI Engineering** opportunities in **Bengaluru** to build and deploy high-impact AI systems.
 
 [**Portfolio**](https://amruthportfolio.me) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
 
