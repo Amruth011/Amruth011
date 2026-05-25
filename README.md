@@ -4,7 +4,7 @@ I'm an **AI Engineer** dedicated to building intelligent systems that solve real
 
 I don’t just write code; I architect end-to-end systems with a focus on **Indic AI (Kannada NLP)** & **Scalable RAG Architectures**.
 
----
+--
 
 ### 🚀 Highlights & Impact
 
