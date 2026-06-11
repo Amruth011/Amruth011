@@ -11,7 +11,7 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 ### 🚀 Highlights & Impact
 
 * **Lumina (Flagship):** Multi-agent career platform — decode JDs, analyze up to 5 resumes & auto-rank them, generate tailored resumes & cover letters, outreach messages, skill roadmaps, and an autonomous **LuminaPlay** job agent that opens application links and auto-fills & submits forms. Built with LangChain · LangGraph · Gemini 2.0 Flash · Supabase.
-* **Indic RAG Agent:** First-of-its-kind RAG pipeline for a 346-page scanned Kannada novel — EasyOCR, LangChain, ChromaDB, Sarvam AI TTS, semantic routing.
+* **Indic RAG Agent:** First-of-its-kind RAG pipeline for a 346-page scanned Kannada novel — SuryaOCR, LangChain, ChromaDB, Sarvam AI TTS, semantic routing.
 * **High-Precision ML:** Achieved **98.7% accuracy** in real-time Customer Churn & Retention ROI system — XGBoost, SHAP, Docker, Streamlit.
 * **Production Pipelines:** Interned @ **iStudio Technologies** — end-to-end Data Science & ML pipelines in production.
 * **Industry Simulations:** GenAI & Data simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
