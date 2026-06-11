@@ -55,7 +55,7 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 
 ### 🏅 Certifications
 
-Salesforce Agentforce Specialist · DataCamp AI Engineer Associate · Volatile AI Fundamentals · IBM ML Professional Certificate · Google Advanced Data Analytics
+Salesforce Agentforce Specialist · DataCamp AI Engineer Associate · Oracle AI Fundamentals · IBM ML Professional Certificate · Google Advanced Data Analytics
 
 ---
 
