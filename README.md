@@ -20,10 +20,11 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 
 ### 🔥 Stats & Performance
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Amruth011/Amruth011/main/assets/top3-streaks.svg" alt="Amruth's Top 3 Streaks (Auto-updated daily)" />
-</p>
+### 🔥 Stats & Performance
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
+</p>
 ---
 
 ### 🤖 Agentic AI Stack
