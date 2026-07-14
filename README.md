@@ -18,7 +18,6 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 
 ---
 
-### 🔥 Stats & Performance
 
 ### 🔥 Stats & Performance
 
