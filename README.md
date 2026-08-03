@@ -4,7 +4,7 @@ I'm an **Agentic AI Engineer** dedicated to building intelligent, autonomous sys
 
 I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG systems** — focused on shipping products that create measurable impact.
 
-> 🎯 Currently focused on: **Agentic AI** · **Multi-Agent Systems** · **LLM Infrastructure** · **Indic AI**
+> 🎯 Currently focused on: **Agentic AI** · **Multi-Agent Systems** · **Advanced RAG** · **LLM Infrastructure** · **Indic AI**
 
 ---
 
@@ -14,16 +14,15 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 * **Kannada RAG Agent:** RAG pipeline for a 346-page scanned Kannada novel — EasyOCR for text extraction, LangChain + ChromaDB for semantic retrieval, Sarvam AI TTS for audio responses.
 * **Customer Churn & Retention ROI System:** End-to-end ML system (XGBoost, AUC 0.9989) with SHAP explainability, an interactive Retention ROI simulator quantifying cost savings, and a production-ready Dockerized Streamlit dashboard.
 * **Production Pipelines:** Interned @ **iStudio Technologies** — built end-to-end Data Science & ML pipelines in production.
-* **Industry Simulations:** GenAI & Data simulations with **Accenture, BCG, Deloitte, and Tata iQ**.
 
 ---
-
 
 ### 🔥 Stats & Performance
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
 </p>
+
 ---
 
 ### 🤖 Agentic AI Stack
@@ -31,6 +30,7 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 | Layer | Tools & Frameworks |
 |---|---|
 | **Orchestration** | LangChain · LangGraph · CrewAI · AutoGen |
+| **RAG & Retrieval** | Advanced RAG · Hybrid Search · Dense/Sparse Embeddings · Chunking Strategies |
 | **Protocols** | MCP (Model Context Protocol) |
 | **Automation** | FastAPI · Playwright · Self-Healing Agents |
 | **LLMs** | Gemini 2.0 Flash · GPT-4o · Llama 3 |
@@ -42,7 +42,7 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 ### 🛠 Full Tech Stack
 
 * **Languages:** Python · SQL
-* **AI/ML:** RAG · Agentic AI · PyTorch · HuggingFace · LangChain · Scikit-Learn
+* **AI/ML & RAG:** RAG / Advanced RAG · Agentic AI · Semantic Search · PyTorch · HuggingFace · LangChain · Scikit-Learn
 * **Data:** PySpark · Spark · Pandas · Production Pipelines
 * **Full Stack:** React · FastAPI · Supabase · Vercel
 * **MLOps / DevOps:** Docker · CI/CD · Git · AWS · Azure
