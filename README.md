@@ -42,7 +42,7 @@ I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG syste
 ### 🛠 Full Tech Stack
 
 * **Languages:** Python · SQL
-* **AI/ML:** Agentic AI · PyTorch · HuggingFace · LangChain · Scikit-Learn
+* **AI/ML:** RAG · Agentic AI · PyTorch · HuggingFace · LangChain · Scikit-Learn
 * **Data:** PySpark · Spark · Pandas · Production Pipelines
 * **Full Stack:** React · FastAPI · Supabase · Vercel
 * **MLOps / DevOps:** Docker · CI/CD · Git · AWS · Azure
