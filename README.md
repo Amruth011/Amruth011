@@ -10,7 +10,7 @@ I'm an **AI Engineer** focused on agentic systems and RAG. B.Tech in AI & Data S
 
 * **Kannada RAG Agent:** RAG pipeline for a 346-page scanned Kannada novel. EasyOCR for extraction, LangChain + ChromaDB for retrieval, Sarvam AI TTS for audio answers. Deployed on Streamlit Cloud.
 * **Customer Churn & Retention ROI System:** XGBoost model with SHAP explainability, an interactive retention ROI simulator (simulated scenarios), and a Dockerized Streamlit dashboard.
-* **Lumina (paused):** multi-agent career platform: JD Decoder, Resume Analyzer, ATS Scorer, report generation, plus LuminaPlay, an experimental job-application agent. Built solo with LangChain, LangGraph, Gemini 2.0 Flash, Supabase. Paused after reliability and orchestration issues; main lesson was that agent pipelines need evals and failure handling from day one.
+* **Lumina :** multi-agent career platform: JD Decoder, Resume Analyzer, ATS Scorer, report generation, plus LuminaPlay, an experimental job-application agent. Built solo with LangChain, LangGraph, Gemini 2.0 Flash, Supabase. Paused after reliability and orchestration issues; main lesson was that agent pipelines need evals and failure handling from day one.
 
 ---
 
