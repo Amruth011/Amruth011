@@ -27,13 +27,13 @@ I'm an **AI Engineer** focused on agentic systems and RAG. B.Tech in AI & Data S
 * **AI/ML:** LangChain · LangGraph · RAG · XGBoost · Scikit-Learn · SHAP
 * **Backend/Data:** FastAPI · Supabase · Pandas · REST APIs
 * **Infra:** Docker · Kubernetes · Azure · Vercel · Git
-* **Vector DB:** ChromaDB ·Qdrant 
+* **Vector DB:** ChromaDB · Qdrant 
 
 ---
 
 ### 🏅 Certifications
 
-Salesforce Agentforce Specialist · DataCamp AI Engineer Associate · Oracle AI Fundamentals · IBM ML Professional Certificate · Google Advanced Data Analytics
+Salesforce Agentforce Specialist · Oracle Agentic AI Foundations Associate · DataCamp AI Engineer Associate · IBM ML Professional Certificate · Google Advanced Data Analytics
 
 ---
 
@@ -49,4 +49,4 @@ Salesforce Agentforce Specialist · DataCamp AI Engineer Associate · Oracle AI 
 
 Open to **Agentic AI**, **AI/ML Engineering**, and **Data Science** roles in Bengaluru (hybrid/remote).
 
-[**Portfolio**](https://amruthportfolio.me) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
+[**Portfolio**]([https://amruthportfolio.m](https://amruths-portfolio.vercel.app/)) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
