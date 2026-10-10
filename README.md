@@ -23,11 +23,11 @@ I'm an **AI Engineer** focused on agentic systems and RAG. B.Tech in AI & Data S
 
 ### 🛠 Stack
 
-* **Languages:** Python · SQL · Kotlin
+* **Languages:** Python · SQL 
 * **AI/ML:** LangChain · LangGraph · RAG · XGBoost · Scikit-Learn · SHAP
 * **Backend/Data:** FastAPI · Supabase · Pandas · REST APIs
 * **Infra:** Docker · Kubernetes · Azure · Vercel · Git
-* **Vector DB:** ChromaDB
+* **Vector DB:** ChromaDB ·Qdrant 
 
 ---
 
