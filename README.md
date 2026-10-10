@@ -1,51 +1,33 @@
 # Hey there 👋 I'm Amruth Kumar M
 
-I'm an **Agentic AI Engineer** dedicated to building intelligent, autonomous systems that solve real-world problems. B.Tech Graduate in AI & Data Science from **Reva University, Bengaluru** (June 2026).
+I'm an **AI Engineer** focused on agentic systems and RAG. B.Tech in AI & Data Science, **REVA University, Bengaluru** (June 2026). Ex-SDE Intern @ **Taar.AI**, Data Science Intern @ **iStudio Technologies**.
 
-I architect **multi-agent pipelines**, **autonomous workflows**, and **RAG systems** — focused on shipping products that create measurable impact.
-
-> 🎯 Currently focused on: **Agentic AI** · **Multi-Agent Systems** · **Advanced RAG** · **LLM Infrastructure** · **Indic AI**
+> 🎯 Focus: **Agentic AI** · **Multi-Agent Systems** · **RAG** · **Indic AI**
 
 ---
 
-### 🚀 Highlights & Impact
+### 🚀 Projects
 
-* **Lumina (Flagship):** Multi-agent career platform — decode JDs, analyze & auto-rank up to 5 resumes, generate tailored resumes & cover letters, outreach messages, and skill roadmaps. Includes **LuminaPlay**: an autonomous job agent that opens application links, auto-fills forms, and submits on your behalf. Built with LangChain · LangGraph · Gemini 2.0 Flash · Supabase.
-* **Kannada RAG Agent:** RAG pipeline for a 346-page scanned Kannada novel — EasyOCR for text extraction, LangChain + ChromaDB for semantic retrieval, Sarvam AI TTS for audio responses.
-* **Customer Churn & Retention ROI System:** End-to-end ML system (XGBoost, AUC 0.9989) with SHAP explainability, an interactive Retention ROI simulator quantifying cost savings, and a production-ready Dockerized Streamlit dashboard.
-* **Production Pipelines:** Interned @ **iStudio Technologies** — built end-to-end Data Science & ML pipelines in production.
-
----
-
-### 🔥 Stats & Performance
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Amruth011&theme=radical&hide_border=true" alt="Amruth's GitHub Streak" />
-</p>
+* **Kannada RAG Agent:** RAG pipeline for a 346-page scanned Kannada novel. EasyOCR for extraction, LangChain + ChromaDB for retrieval, Sarvam AI TTS for audio answers. Deployed on Streamlit Cloud.
+* **Customer Churn & Retention ROI System:** XGBoost model with SHAP explainability, an interactive retention ROI simulator (simulated scenarios), and a Dockerized Streamlit dashboard.
+* **Lumina (paused):** multi-agent career platform: JD Decoder, Resume Analyzer, ATS Scorer, report generation, plus LuminaPlay, an experimental job-application agent. Built solo with LangChain, LangGraph, Gemini 2.0 Flash, Supabase. Paused after reliability and orchestration issues; main lesson was that agent pipelines need evals and failure handling from day one.
 
 ---
 
-### 🤖 Agentic AI Stack
+### 💼 Experience
 
-| Layer | Tools & Frameworks |
-|---|---|
-| **Orchestration** | LangChain · LangGraph · CrewAI · AutoGen |
-| **RAG & Retrieval** | Advanced RAG · Hybrid Search · Dense/Sparse Embeddings · Chunking Strategies |
-| **Protocols** | MCP (Model Context Protocol) |
-| **Automation** | FastAPI · Playwright · Self-Healing Agents |
-| **LLMs** | Gemini 2.0 Flash · GPT-4o · Llama 3 |
-| **Memory / Vector DBs** | ChromaDB · Supabase · Pinecone · FAISS |
-| **Deployment** | Docker · Vercel · AWS · Azure |
+* **Taar.AI, SDE Intern:** backend work in Kotlin/Dropwizard: authentication service and REST API, containerized and deployed to Kubernetes via Azure Container Registry.
+* **iStudio Technologies, Data Science Intern (Feb–May 2026):** built an analytics dashboard with an ROI simulation module; worked on ML pipelines and exploratory analysis in Python.
 
 ---
 
-### 🛠 Full Tech Stack
+### 🛠 Stack
 
-* **Languages:** Python · SQL
-* **AI/ML & RAG:** RAG / Advanced RAG · Agentic AI · Semantic Search · PyTorch · HuggingFace · LangChain · Scikit-Learn
-* **Data:** PySpark · Spark · Pandas · Production Pipelines
-* **Full Stack:** React · FastAPI · Supabase · Vercel
-* **MLOps / DevOps:** Docker · CI/CD · Git · AWS · Azure
+* **Languages:** Python · SQL · Kotlin
+* **AI/ML:** LangChain · LangGraph · RAG · XGBoost · Scikit-Learn · SHAP
+* **Backend/Data:** FastAPI · Supabase · Pandas · REST APIs
+* **Infra:** Docker · Kubernetes · Azure · Vercel · Git
+* **Vector DB:** ChromaDB
 
 ---
 
@@ -55,16 +37,16 @@ Salesforce Agentforce Specialist · DataCamp AI Engineer Associate · Oracle AI 
 
 ---
 
-### 🌐 Connect With Me
+### 🔥 GitHub Stats
 
-Actively seeking roles in **Agentic AI Engineering**, **AI/ML Engineering**, or **Data Science** in **Bengaluru**.
-
-[**Portfolio**](https://amruthportfolio.me) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Amruth011&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lumina-Multi--Agent_Career_Platform-10B981?style=for-the-badge&logo=rocket" alt="Lumina" />
-  <img src="https://img.shields.io/badge/LuminaPlay-Autonomous_Job_Agent-1E2A3A?style=for-the-badge&logo=robot" alt="LuminaPlay" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Builder-7C3AED?style=for-the-badge" alt="Agentic AI" />
-</p>
+### 🌐 Connect
+
+Open to **Agentic AI**, **AI/ML Engineering**, and **Data Science** roles in Bengaluru (hybrid/remote).
+
+[**Portfolio**](https://amruthportfolio.me) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
