@@ -47,6 +47,6 @@ Salesforce Agentforce Specialist · Oracle Agentic AI Foundations Associate · D
 
 ### 🌐 Connect
 
-Open to **Agentic AI**, **AI/ML Engineering**, and **Data Science** roles in Bengaluru (hybrid/remote).
+Open to **Gen/Agentic AI**, **AI/ML Engineering**, and **Data Science** roles in Bengaluru (hybrid/remote).
 
 [**Portfolio**](https://amruths-portfolio.vercel.app/) • [**LinkedIn**](https://linkedin.com/in/amruth-kumar-m) • [**Email**](mailto:amruth.kumar.portfolio@gmail.com)
